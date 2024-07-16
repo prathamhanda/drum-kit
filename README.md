@@ -13,7 +13,7 @@ The Drum Kit project—a rhythm lover's dream! 🥁💡 It's an interactive web 
 1. **User Interface**:
     - **Responsive Design**: Whether you're on a desktop or jamming from your phone, the drum kit adapts like a chameleon. 🦎📱
     - **Visual Appeal**: Picture this—gorgeous drum pads, each waiting to be tapped like a canvas of sound. 🎨🤩
-    - **Interactive Elements**: Seven drum pads, labeled with their secret keys (A, S, D, F, G, H, J). Ready, set, groove! 🎹🔥
+    - **Interactive Elements**: Seven drum pads, labeled with their secret keys (W, A, S, D, J, K, L). Ready, set, groove! 🎹🔥
 
 2. **Game Logic**:
     - **Mouse Magic**: Click a pad, and voilà! The drum sound dances out. 🐭🎵
